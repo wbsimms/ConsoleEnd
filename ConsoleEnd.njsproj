@@ -21,6 +21,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="app.js" />
+    <Compile Include="example.js" />
     <Compile Include="src\lib\ConsoleEnd.js" />
   </ItemGroup>
   <ItemGroup>
