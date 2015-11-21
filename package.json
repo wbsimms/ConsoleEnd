@@ -1,0 +1,18 @@
+{
+    "name": "consoleend",
+    "version": "1.0.5",
+    "description": "Prompt and wait for user input to end a console session.",
+    "main": "./src/lib/ConsoleEnd.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "console",
+        "end"
+    ],
+    "author": "Wm. Barrett Simms",
+    "license": "ISC",
+    "dependencies": {
+        "readline": "^1.2.1"
+    }
+}
